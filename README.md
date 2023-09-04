@@ -1,4 +1,5 @@
-# Detecting-suicidal-text-on-social-media-using-machine-learning-models- Today, suicide claims the lives of numerous people
+# Detecting-suicidal-text-on-social-media-using-machine-learning-models- 
+Today, suicide claims the lives of numerous people
 every year. The second most common reason for mortality for
 people aged 10 to 34 is suicide. People use a variety of social
 networking sites where they talk about their plans to kill themselves. As a result, multiple studies discovered that monitoring
